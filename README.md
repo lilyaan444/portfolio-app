@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Portfolio - Next.js
 
-## Getting Started
+Ce projet est mon portfolio personnel, développé avec Next.js pour présenter mes compétences, mes projets, et mon parcours professionnel.
 
-First, run the development server:
+## 📄 Aperçu du projet
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Technologie principale** : Next.js (React)
+- **Description** : Mon portfolio permet de découvrir mes réalisations, d’en apprendre davantage sur mon parcours et de me contacter facilement.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Prérequis
+- **Node.js** et **npm** ou **yarn**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Étapes d'installation
 
-## Learn More
+1. Clonez le repository :
+   ```bash
+   git clone https://github.com/lilyaan444/portfolio-app.git
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Installez les dépendances :
+   ```bash
+   npm install
+   # ou
+   yarn install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. Lancez l'application en développement :
+   ```bash
+   npm run dev
+   # ou
+   yarn dev
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+4. Accédez à `http://localhost:3000` pour voir le portfolio en action.
 
-## Deploy on Vercel
+## 🛠️ Technologies utilisées
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Framework** : Next.js
+- **Styling** : CSS Modules / Tailwind CSS (selon ce que tu utilises)
+- **Déploiement** : Vercel / Netlify
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🎨 Aperçu des fonctionnalités
+
+- **Sections du portfolio** : Présentation, Projets, Compétences, Contact
+- **Navigation fluide** et chargement rapide grâce à Next.js
+
